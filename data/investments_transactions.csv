@@ -1,0 +1,4 @@
+Date,Account,Ticker/Symbol,Type,Amount,Quantity,Price,Notes
+2025-01-15,Vanguard Roth IRA,VTI,Buy,0,50,220.00,Initial purchase
+2025-02-15,Vanguard Roth IRA,VTI,Dividend,125.50,0,,Quarterly dividend
+2025-03-01,Fidelity Taxable,BND,Buy,0,200,71.00,Rebalance
